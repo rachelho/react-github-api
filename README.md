@@ -1,5 +1,5 @@
 ## React-Github-API
-
+Bootstrapped using `create-react-app`
 # Project Objectives
 To learn about React and JavaScript, as well as play around with the GitHub API.
 # Build Steps
